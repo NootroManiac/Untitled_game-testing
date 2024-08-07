@@ -1,0 +1,5 @@
+--local remote_event = game.ReplicatedStorage.RemoteEvent
+--while true do
+--	remote_event:FireServer(6)
+--	wait(1)
+--end
